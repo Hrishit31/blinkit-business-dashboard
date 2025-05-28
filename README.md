@@ -85,7 +85,7 @@ The dataset used is a simulated representation of Blinkit’s operational data a
 **Hrishit Bharadwaj**  
 Data Analytics Enthusiast | Power BI Developer
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/hrishit-bharadwaj) or reach out for feedback and collaboration.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/hrishit-b-5188951b6/) or reach out for feedback and collaboration.
 
 ---
 
